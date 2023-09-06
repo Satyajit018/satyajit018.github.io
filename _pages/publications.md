@@ -44,7 +44,6 @@ J22. Islam, M., Thakur, M. S. H., **Mojumder, S.**, Al Amin, A., & Islam, M. M. 
 
 J21. Tang, S., Li, Y., Qiu, H., Yang, H., Saha, S., **Mojumder, S.**, Liu, W.K. and Guo, X. (2020). A mechanistic-based data-driven approach for numerical elastoplastic analysis. Computer Methods in Applied Mechanics and Engineering, 364, 112955.
 
-## Journal Articles (* indicates equal contributions, † indicates corresponding author)
 
 J20. **Mojumder, S.**, Mahboob, M., & Motalab, M. (2020). Atomistic and finite element study of nanoindentation in pure aluminum. Materials Today Communications, 23, 100798.
 
@@ -79,8 +78,6 @@ J6. **Mojumder, S.**, Sourav, S. A. H. A., Sumon, S. A. H. A., & Mamun, M. A. H.
 J5. **Mojumder, S.**, Amin, A. A., & Islam, M. M. (2015). Mechanical properties of stanene under uniaxial and biaxial loading: A molecular dynamics study. Journal of Applied Physics, 118(12), 124305.
 
 J4. Rahman, M. M., Saha, S., **Mojumder, S.**, Naim, A. G., Saidur, R., & Ibrahim, T. A. (2015). Effect of sine-squared thermal boundary condition on augmentation of heat transfer in a triangular solar collector filled with different nanofluids. Numerical Heat Transfer, Part B: Fundamentals, 68(1), 53-74.
-
-## Journal Articles (* indicates equal contributions, † indicates corresponding author)
 
 J3. Rahman, M. M., **Mojumder, S.**, Saha, S., Mekhilef, S., & Saidur, R. (2014). Effect of solid volume fraction and tilt angle in a quarter circular solar thermal collectors filled with CNT–water nanofluid. International Communications in Heat and Mass Transfer, 57, 79-90.
 
