@@ -31,17 +31,9 @@ Work Experience
 
 * Research Assistant, Department of Mechanical Engineering, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh, Jan 2013 – Sep 2015
 
-Skills
-======
-* Multiscale Materials Modeling
-* Polymer Additive Manufacturing
-* Data-driven Mechanics
-* Nonlinear Heterogeneous and Composite Materials
-* Nanomechanics and Nanomaterials
 
-Grants and Fellowships
+Grants
 ======
-**Grants:**
 * Navy SBIR Phase I ($240,000)
   * Title: Data-Driven Physics-Based Modeling Tools to Determine Effective Mechanical Properties of As-Built Composite Structures (N6833522C0371)
   * Role: PI
@@ -54,11 +46,15 @@ Grants and Fellowships
   * Status: In Progress
   * Jun 2023 - Jun 2024
 
-**Fellowships:**
-* Walter P. Murphy Fellowship, Northwestern University
-  * Covers first-year graduate student tuition, health, and living.
-  * Sep 2018 - Aug 2019
-
-* Predictive Science and Engineering Design Fellowship, Northwestern University
-  * Covers graduate student tuition, health, and living cost to pursue interdisciplinary research for one year
-  * Sep 2019 - Aug 2020
+Awards and Honors
+======
+- Walter P. Murphy Fellowship, Northwestern University, 2018 - 2019
+- Predictive Science and Engineering Design Fellowship, Northwestern University, 2019 - 2020
+- Argonne Training Program on Extreme Scale Computing (ATPESC) Fellow, 2022
+- NSF Fellowship, 2021
+- USNC/TAM Attendee Fellowship, 2021
+- University Merit Scholarship, Bangladesh University of Engineering and Technology, Dhaka, 2010 - 2015
+- Dean’s List, Faculty of Mechanical Engineering, Bangladesh University of Engineering and Technology, Dhaka, 2010 - 2015
+- Professor M.A. Naser Memorial Scholarship, 2013
+- American Association for Bangladeshi Engineers and Architects (AABEA) Scholarship, 2012 - 2013
+- Education Board Scholarship, 2007 - 2015
