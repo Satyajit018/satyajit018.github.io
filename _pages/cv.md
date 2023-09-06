@@ -11,7 +11,7 @@ Education
 ======
 * Ph.D. in Theoretical and Applied Mechanics, Northwestern University, 2023 (Expected)
   * Thesis title: Digital Thread for Polymer Additive Manufacturing Materials
-  * Advisor: [Prof. Wing Kam Liu]{https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-kam-wing.html} 
+  * Advisor: [Prof. Wing Kam Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-kam-wing.html) 
 * M.S. in Mechanical Engineering, Bangladesh University of Engineering and Technology, 2017
   * Thesis title: A computational study of nanoindentation in Aluminum and its alloys
   * Advisor: Prof. Mohammad Abdul Motalab

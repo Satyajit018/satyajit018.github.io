@@ -2,9 +2,6 @@
 permalink: /contact/
 title: "Contact Me"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /contact.html
 ---
 
 ## Contact Information
