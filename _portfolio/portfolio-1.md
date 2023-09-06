@@ -1,7 +1,7 @@
 ---
 title: "Advanced computational methods for product, materials, and process (PMP)"
 excerpt: "Advanced computational methods for Product, Materials, and Process (PMP) revolutionize engineering and manufacturing by enabling predictive analysis, cost reduction, and environmental sustainability through cutting-edge simulations, modeling, and multidisciplinary techniques.<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: research
 ---
 
 "Advanced computational methods for Product, Materials, and Process (PMP)" refer to cutting-edge techniques and tools employed in the fields of engineering, materials science, and manufacturing. These methods harness the power of computational simulations, modeling, and data-driven approaches to optimize and enhance the design, development, and production of products and materials.
