@@ -8,7 +8,7 @@ author_profile: true
 Most recent publications can be found on my  [Google Scholar](https://scholar.google.com/citations?hl=en&user=5UTbziYAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ## Journal Articles 
-* indicates equal contributions, † indicates corresponding author
+\* indicates equal contributions, † indicates corresponding author
 
 J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112. [Link] (https://pubs.aip.org/aip/aml/article/1/3/036112/2911650)
 
