@@ -9,7 +9,7 @@ Most recent publications can be found on my  [Google Scholar](https://scholar.go
 
 ## Journal Articles (* indicates equal contributions, † indicates corresponding author)
 
-J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning (accepted)
+J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112.
 
 J35. Zhang, L., Park, C., Lu, Y., Li, H., **Mojumder, S.**, Saha, S., Guo, J., Li, Y., Abott, T., Wagner, G.J., Tang, S., and Liu, W.K. (2023). Isogeometric Convolution Hierarchical Deep-learning Neural Network: Isogeometric analysis with versatile adaptivity. Computer Methods in Applied Mechanics and Engineering, 417, 116356.
 
