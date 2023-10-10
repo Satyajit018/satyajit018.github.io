@@ -26,7 +26,7 @@ J30. Liu, Y., Park, C., Lu, Y., **Mojumder, S.**, Liu, W. K., & Qian, D. (2023).
 
 J29. Ruvo, T. H., Saha, S., **Mojumder, S.**, & Saha, S. (2023). Mixed convection in an open T-shaped cavity utilizing the effect of different inflow conditions with Al2O3-water nanofluid flow. Results in Engineering, 17, 100862. [Link]()
 
-J28. Huang, H.*, **Mojumder, S.***, Suarez, D., Al Amin, A., Fleming, M., & Liu, W. K. (2022). Knowledge database creation for design of polymer matrix composite. Computational Materials Science, 214, 111703. [Link]()
+J28. Huang, H.\*, **Mojumder, S.**\*, Suarez, D., Al Amin, A., Fleming, M., & Liu, W. K. (2022). Knowledge database creation for design of polymer matrix composite. Computational Materials Science, 214, 111703. [Link]()
 
 J27. Gao, J., **Mojumder, S.†**, Zhang, W., Li, H., Suarez, D., He, C., Cao, J. and Liu, W.K. (2022). Concurrent n-scale modeling for non-orthogonal woven composite. Computational Mechanics, 70(4), 853-866. [Link]()
 
