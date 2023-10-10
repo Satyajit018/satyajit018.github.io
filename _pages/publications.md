@@ -83,7 +83,8 @@ J2. Rahman, M. M., Saha, S., **Mojumder, S.**, Mekhilef, S., & Saidur, R. (2014)
 J1. Rahman, M. M., **Mojumder, S.**, Saha, S., Mekhilef, S., & Saidur, R. (2014). Augmentation of natural convection heat transfer in triangular shape solar collector by utilizing water based nanofluids having a corrugated bottom wall. International Communications in Heat and Mass Transfer, 50, 117-127. [Link]()
 
 
-##Referred Conference Proceedings 
+## Referred Conference Proceedings
+
 C17.	**Mojumder, S.**, Gao, J., & Liu, W. K. (2021, February). Self-consistent clustering analysis for modeling of theromelastic heterogeneous materials. In AIP Conference Proceedings (Vol. 2324, No. 1, p. 030029). AIP Publishing LLC.
 
 C16.	**Mojumder, S.**, Saha, S., Saha, S., Rahman, R., & Saha, S. C. (2020, April). Effect of Magnetic Field on Double Diffusive Natural Convection Inside a Square Cavity with Isothermal Hollow Insert. In IOP Conference Series: Materials Science and Engineering (Vol. 831, No. 1, p. 012010). IOP Publishing.
