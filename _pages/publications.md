@@ -82,3 +82,39 @@ J2. Rahman, M. M., Saha, S., **Mojumder, S.**, Mekhilef, S., & Saidur, R. (2014)
 
 J1. Rahman, M. M., **Mojumder, S.**, Saha, S., Mekhilef, S., & Saidur, R. (2014). Augmentation of natural convection heat transfer in triangular shape solar collector by utilizing water based nanofluids having a corrugated bottom wall. International Communications in Heat and Mass Transfer, 50, 117-127. [Link]()
 
+
+##Referred Conference Proceedings 
+C17.	**Mojumder, S.**, Gao, J., & Liu, W. K. (2021, February). Self-consistent clustering analysis for modeling of theromelastic heterogeneous materials. In AIP Conference Proceedings (Vol. 2324, No. 1, p. 030029). AIP Publishing LLC.
+
+C16.	**Mojumder, S.**, Saha, S., Saha, S., Rahman, R., & Saha, S. C. (2020, April). Effect of Magnetic Field on Double Diffusive Natural Convection Inside a Square Cavity with Isothermal Hollow Insert. In IOP Conference Series: Materials Science and Engineering (Vol. 831, No. 1, p. 012010). IOP Publishing.
+
+C15.	Pial, T. H., Rakib, T., Bose, P., **Mojumder, S.**, & Motalab, M. (2018, July). Temperature and size effect on the mechanical properties of indium phosphide nanowire: An atomistic study. In AIP Conference Proceedings (Vol. 1980, No. 1, p. 030023). AIP Publishing LLC.
+
+C14. 	Jui, T. A., Bose, P., Rakib, T., **Mojumder, S.**, & Motalab, M. (2018, July). Shear based analysis of nickel nano-plate by molecular dynamics simulations. In AIP Conference Proceedings (Vol. 1980, No. 1, p. 030025). AIP Publishing LLC.
+
+C13.	Paul, R., Tasnim, T., Dhar, R., **Mojumder, S.**, Saha, S., & Motalab, M. A. (2017, November). Study of uniaxial tensile properties of hexagonal boron nitride nanoribbons. In TENCON 2017-2017 IEEE Region 10 Conference (pp. 2783-2788). IEEE.
+
+C12.	Bose, P., Rakib, T., Das, S., Rabbi, K. M., & **Mojumder, S.** (2017, June). MHD mixed convection analysis of non-Newtonian power law fluid in an open channel with round cavity. In AIP Conference Proceedings (Vol. 1851, No. 1, p. 020057). AIP Publishing LLC.
+
+C11.	Das, S., Rakib, T., **Mojumder, S.**, Islam, M. M., & Motalab, M. A. (2017, June). Influence of defects on thermal properties of stanene. In AIP Conference Proceedings (Vol. 1851, No. 1, p. 020035). AIP Publishing LLC.
+
+C10.	**Mojumder, S.**, Saha, S., & Saha, S. (2016, July). Analysis of entropy generation for double diffusive MHD convection in a square cavity with isothermal hollow cylinder. In AIP Conference Proceedings (Vol. 1754, No. 1, p. 050047). AIP Publishing LLC.
+
+C9.	Rabbi, K. M., Shuvo, M., Kabir, R. H., **Mojumder, S.**, & Saha, S. (2016, July). Numerical analysis of mixed convection in lid-driven cavity using non-Newtonian ferrofluid with rotating cylinder inside. In AIP Conference Proceedings (Vol. 1754, No. 1, p. 040016). AIP Publishing LLC.
+
+C8.	Rabbi, K. M., Rakib, T., Das, S., **Mojumder, S.**, & Saha, S. (2016, July). MHD mixed convection analysis in an open channel by obstructed Poiseuille flow of non-Newtonian power law fluid. In AIP Conference Proceedings (Vol. 1754, No. 1, p. 050030). AIP Publishing LLC.
+
+C7.	Saha, S., **Mojumder, S.**, & Saha, S. (2016, July). Regulation of flow through a T-Shaped open cavity by temperature dependent P, PI, and PID controllers. In AIP Conference Proceedings (Vol. 1754, No. 1, p. 050048). AIP Publishing LLC.
+
+C6.	Saha, S., **Mojumder, S.**, Mahboob, M., & Islam, M. Z. (2016, July). Effect of temperature and geometric parameters on elastic properties of tungsten nanowire: A molecular dynamics study. In AIP Conference Proceedings (Vol. 1754, No. 1, p. 030009). AIP Publishing LLC.
+
+C5.	Rabbi, K. M., Nandi, I., Saleh, A. S., Faisal, F., & **Mojumder, S.** (2016, January). Prediction of solar irradiation in Bangladesh using artificial neural network (ANN) and data mapping using GIS technology. In 2016 4th International Conference on the Development in the in Renewable Energy Technology (ICDRET) (pp. 1-6). IEEE.
+
+C4.	**Mojumder, S.**, Saha, S., Saha, S., & Mamun, M. A. H. (2015). Effect of magnetic field on natural convection in a C-shaped cavity filled with ferrofluid. Procedia Engineering, 105, 96-104.
+
+C3.	Rabbi, K. M., Ahmad, T., **Mojumder, S.**, Saha, S., & Hossain, M. Z. (2015). Geometric effect on magnetohydrodynamic convection in a half-moon shaped cavity filled with water having semi-circular bottom heater. Procedia Engineering, 105, 73-80.
+
+C2.	Saha, S., **Mojumder, S.**, Rahman, M. M., Mamun, M. A. H., Mekhilef, S., & Saidur, R. (2014). Effect of Lewis Number on Unsteady Double Diffusive Buoyancy Induced Flow in a Triangular Solar Collector with Corrugated Wall. Procedia Engineering, 90, 418-424.
+
+C1.	**Mojumder, S.**, kumar Sutradhar, P., Saha, S., & Rahman, M. M. (2014, May). Low head hydro power generation using road side canal water potential in Bangladesh. In 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET) (pp. 1-4). IEEE.
+
