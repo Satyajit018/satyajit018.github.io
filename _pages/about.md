@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings and welcome to my webpage. I am Satyajit Mojumder, a PhD candidate in the Theoretical and Applied Mechanics Program at Northwestern University in Evanston, USA. I hold bachelor's and master's degrees in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET) in Dhaka, Bangladesh. Before joining Northwestern, I served as a lecturer and was later promoted to the position of assistant professor in the BUET Mechanical Engineering Department. 
+Greetings and welcome to my webpage. I am Satyajit Mojumder, a PhD candidate in the Theoretical and Applied Mechanics Program at [Northwestern University](https://www.northwestern.edu/) in Evanston, USA. I hold bachelor's and master's degrees in Mechanical Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) in Dhaka, Bangladesh. Before joining Northwestern, I served as a lecturer and was later promoted to the position of assistant professor in the BUET Mechanical Engineering Department. 
 
 My research focuses on understanding the nexus of mechanics, materials, and manufacturing through the development of advanced computational methods. Specifically, I am interested in solving large-scale, multiphysics problems that are prevalent in advanced manufacturing and materials systems. 
 
