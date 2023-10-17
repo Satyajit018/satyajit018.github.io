@@ -10,7 +10,9 @@ Most recent publications can be found on my  [Google Scholar](https://scholar.go
 ## Journal Articles 
 \* indicates equal contributions, † indicates corresponding author
 
-J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112. [Link](https://doi.org/10.1063/5.0156517))
+J37. Lu, Y., **Mojumder, S.**, Guo, J., Li, Y., & Liu, W. K. (2023). Extended tensor decomposition model reduction methods: training, prediction, and design under uncertainty. Computer Methods in Applied Mechanics and Engineering (accepted) 
+
+J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112. [Link](https://doi.org/10.1063/5.0156517)
 
 J35. Zhang, L., Park, C., Lu, Y., Li, H., **Mojumder, S.**, Saha, S., Guo, J., Li, Y., Abott, T., Wagner, G.J., Tang, S., and Liu, W.K. (2023). Isogeometric Convolution Hierarchical Deep-learning Neural Network: Isogeometric analysis with versatile adaptivity. Computer Methods in Applied Mechanics and Engineering, 417, 116356. [Link](https://doi.org/10.1016/j.cma.2023.116356)
 

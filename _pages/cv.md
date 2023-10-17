@@ -51,7 +51,7 @@ Awards and Honors
 - Walter P. Murphy Fellowship, Northwestern University, 2018 - 2019
 - Predictive Science and Engineering Design Fellowship, Northwestern University, 2019 - 2020
 - Argonne Training Program on Extreme Scale Computing (ATPESC) Fellow, 2022
-- NSF Fellowship, 2021
+- NSF Conference Attendee Fellowship, 2021
 - USNC/TAM Attendee Fellowship, 2021
 - University Merit Scholarship, Bangladesh University of Engineering and Technology, Dhaka, 2010 - 2015
 - Dean’s List, Faculty of Mechanical Engineering, Bangladesh University of Engineering and Technology, Dhaka, 2010 - 2015
