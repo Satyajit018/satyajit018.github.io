@@ -11,4 +11,3 @@ author_profile: true
 - **Email:** [satyajit@u.northwestern.edu](mailto:satyajit@u.northwestern.edu)
 - **Phone:** +1-(847)-316-1359
 
-Feel free to reach out to me via email or visit my website for more information about my work and research.
