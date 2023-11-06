@@ -17,6 +17,8 @@ To learn more about me and my research, please explore the other pages on my web
 
 Recent News
 ======
+- Our work on "Extended tensor decomposition model reduction methods: Training, prediction, and design under uncertainty" is now avaialble online in Computer Methods in Applied Mechanics and Engineering. [Read more](https://authors.elsevier.com/c/1i2M6AQEJ1KyQ)
+
 - Our work on "Accelerated and Interpretable Prediction of Local Properties in Composites" has been accepted in APL Machine Learning. [Read more](https://pubs.aip.org/aip/aml/article/1/3/036112/2911650)
 
 - Exciting news! Our research paper "Isogeometric Convolution Hierarchical Deep-learning Neural Network" is now published in Computer Methods in Applied Mechanics and Engineering. Explore this groundbreaking work! [Read more](https://www.sciencedirect.com/science/article/pii/S0045782523004802)
