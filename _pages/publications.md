@@ -10,7 +10,7 @@ Most recent publications can be found on my  [Google Scholar](https://scholar.go
 ## Journal Articles 
 \* indicates equal contributions, † indicates corresponding author
 
-J37. Lu, Y., **Mojumder, S.**, Guo, J., Li, Y., & Liu, W. K. (2023). Extended tensor decomposition model reduction methods: training, prediction, and design under uncertainty. Computer Methods in Applied Mechanics and Engineering (accepted) 
+J37. Lu, Y., **Mojumder, S.**, Guo, J., Li, Y., & Liu, W. K. (2023). Extended tensor decomposition model reduction methods: training, prediction, and design under uncertainty. Computer Methods in Applied Mechanics and Engineering, 418, 116550. [Link](https://doi.org/10.1016/j.cma.2023.116550)
 
 J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112. [Link](https://doi.org/10.1063/5.0156517)
 
