@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Theoretical and Applied Mechanics, Northwestern University, 2023 (Expected)
-  * Thesis title: Digital Thread for Polymer Additive Manufacturing Materials
+* Ph.D. in Theoretical and Applied Mechanics, Northwestern University, 2024
+  * Thesis title: Modeling of Polymer Additive Manufacturing Systems using Mechanistic Data Science
   * Advisor: [Prof. Wing Kam Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-kam-wing.html) 
 * M.S. in Mechanical Engineering, Bangladesh University of Engineering and Technology, 2017
   * Thesis title: A computational study of nanoindentation in Aluminum and its alloys
@@ -21,7 +21,11 @@ Education
 
 Work Experience
 ======
-* Graduate Research Assistant, Prof. Liu Group, Northwestern University, Evanston, IL, 2018-Present
+* Assistant Professor, School of Mechanical and Materials Engineering, Washington State University, Pullman, WA, Aug 2024-Present 
+
+* Visiting Researcher, Prof. Liu Group, Northwestern University, Evanston, IL, May 2024-Jul 2024
+
+* Graduate Research Assistant, Prof. Liu Group, Northwestern University, Evanston, IL, 2018-2024
 
 * Research Engineer, HIDENN-AI LLC, Oak Brook, IL
   * Jul 2023 - Present
@@ -34,6 +38,12 @@ Work Experience
 
 Grants
 ======
+* Navy STTR Phase I ($240,000)
+  * Title: Digital Twin-based Machine Control for Laser Powder Bed Fusion of Metallic Aerospace Components (N68335-23-C-0441)
+  * Role: PI
+  * Status: Completed
+  * June 2023 - Aug 2024
+    
 * Navy SBIR Phase I ($240,000)
   * Title: Data-Driven Physics-Based Modeling Tools to Determine Effective Mechanical Properties of As-Built Composite Structures (N6833522C0371)
   * Role: PI
@@ -48,6 +58,7 @@ Grants
 
 Awards and Honors
 ======
+- Innagural Graduate Mentorship Award, Northwestern University, 2024
 - Walter P. Murphy Fellowship, Northwestern University, 2018 - 2019
 - Predictive Science and Engineering Design Fellowship, Northwestern University, 2019 - 2020
 - Argonne Training Program on Extreme Scale Computing (ATPESC) Fellow, 2022
