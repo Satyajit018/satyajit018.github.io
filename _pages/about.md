@@ -17,6 +17,8 @@ To learn more about me and my research, please explore the other pages on my web
 
 Recent News
 ======
+- Satyajit Mojumder has recived the innagural graduate mentorship award from Northwestern University. Thanks to department of Mechanical Enginnering at Northwestern for recognizing my mentoring activities. 
+
 - Our work on "Statistical parameterized physics-based machine learning digital shadow models for laser powder bed fusion process" is now available online in Additive Manufacturing. [Read more](https://www.sciencedirect.com/science/article/pii/S2214860424002604)
   
 - Our work on "Extended tensor decomposition model reduction methods: Training, prediction, and design under uncertainty" is now avaialble online in Computer Methods in Applied Mechanics and Engineering. [Read more](https://authors.elsevier.com/c/1i2M6AQEJ1KyQ)
