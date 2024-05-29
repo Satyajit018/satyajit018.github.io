@@ -10,6 +10,10 @@ Most recent publications can be found on my  [Google Scholar](https://scholar.go
 ## Journal Articles 
 \* indicates equal contributions, † indicates corresponding author
 
+J39. Li, Y., **Mojumder, S.**, Lu, Y., Al Amin, A., Guo, J., Xie, X., Chen, W., Wagner, G.J., Cao, J. and Liu, W.K. (2024). Statistical parameterized physics-based machine learning digital shadow models for laser powder bed fusion process. Additive Manufacturing, 86, 104214. [Link](https://www.sciencedirect.com/science/article/pii/S2214860424002604)
+
+J38. Liu, W., **Mojumder, S.**, Liu, W. K., Chen, W., & Apley, D. W. (2024). Simulation-free determination of microstructure representative volume element size via Fisher scores. APL Machine Learning, 2(2). [Link](https://pubs.aip.org/aip/aml/article/2/2/026101/3280190)
+
 J37. Lu, Y., **Mojumder, S.**, Guo, J., Li, Y., & Liu, W. K. (2023). Extended tensor decomposition model reduction methods: training, prediction, and design under uncertainty. Computer Methods in Applied Mechanics and Engineering, 418, 116550. [Link](https://doi.org/10.1016/j.cma.2023.116550)
 
 J36. Zhang, S., **Mojumder, S.**, Liu, W. K., Chen, W., Apley, D.W. (2023). Accelerated and Interpretable Prediction of Local Properties in Composites. APL Machine Learning, 1, 036112. [Link](https://doi.org/10.1063/5.0156517)
