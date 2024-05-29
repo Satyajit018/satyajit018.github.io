@@ -11,7 +11,7 @@ Greetings and welcome to my webpage. I am Satyajit Mojumder, an incoming assista
 
 My research focuses on understanding the nexus of mechanics, materials, and manufacturing through the development of advanced computational methods. Specifically, I am interested in solving large-scale, multiphysics problems that are prevalent in advanced manufacturing and materials systems leveraging mechanistic reduced-order models and AI-based algortihms. 
 
-I am originally from a small town in the southern part of Bangladesh, where I grew up surrounded by nature and a beautiful river just a few steps from my home. I have a passion for teaching and mentoring, and in my free time, I enjoy visiting tranquil places.
+I am originally from a small town, Magura, located in southern part of Bangladesh. I grew up surrounded by nature and a beautiful river named Nabaganga just a few steps from my home. I have a passion for teaching and mentoring, and in my free time, I enjoy visiting tranquil places.
 
 To learn more about me and my research, please explore the other pages on my website.
 
