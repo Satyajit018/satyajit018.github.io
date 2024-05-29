@@ -7,6 +7,10 @@ author_profile: true
 
 ## Teaching Experience
 
+### Assistant Professor
+**Washington State University, Pullman, WA**
+- ME 501: Continuum Mechanics (Fall 2024)
+
 ### Teaching Assistant
 **Northwestern University, Evanston, IL**
 - MECH-395: Mechanistic Data Science for Engineers (Spring 2022)
